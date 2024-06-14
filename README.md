@@ -22,7 +22,7 @@ const mySkills = {
 
 ### 🌟 Highlight Projects
 - **Super Mario Maker 1 Level Downloader**: A Level Downloader for all the Archived SMM1 Levels [View on Github](https://github.com/HerobrineTV/SMM1-Level-Downloader)
-- **Other Notable Projects**: [View Org](https://github.com/HerobrineTV)
+- **Other Notable Projects**: [View Github](https://github.com/HerobrineTV)
 
 ### 📈 GitHub Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=HerobrineTV&show_icons=true&theme=radical)
