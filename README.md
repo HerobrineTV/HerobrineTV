@@ -1,4 +1,4 @@
-# Hi there, I'm Jan 👋
+# Hey, I'm Jan 👋
 
 ## 🌐 Full Stack Developer | 🎮 Roblox Developer | 🎮 NodeJS Developer | 📍 Germany
 
