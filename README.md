@@ -28,7 +28,7 @@ const mySkills = {
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=HerobrineTV&show_icons=true&theme=radical)
 
 ### 🔥 GitHub Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nightyonlyy)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HerorbrineTV)
 
 ### 📫 How to Reach Me
 - Discord: nintendo_switch
