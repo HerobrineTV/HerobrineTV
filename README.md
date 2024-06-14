@@ -1,6 +1,6 @@
 # Hey, I'm Jan 👋
 
-## 🌐 Full Stack Developer | 🎮 Roblox Developer | 🎮 NodeJS Developer | 📍 Germany
+## 🌐 Full Stack Developer | 🎮 Roblox Developer | 🛠️ NodeJS Developer | 📍 Germany
 
 Welcome to my GitHub! I'm a young Fullstack Developer from Germany.
 
