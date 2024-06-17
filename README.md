@@ -3,7 +3,7 @@
 </h1>
 
 ## Hey! 👋
-I'm Jan, a 21 years old fullstack developer from Germany.
+I'm Jan, a 20 years old fullstack developer from Germany.
 
 ## 🌐 Full Stack Developer | 🎮 Roblox Developer | 🛠️ NodeJS Developer | 📍 Germany
 
