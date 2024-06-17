@@ -44,7 +44,7 @@ const mySkills = {
 
 ### 📈 GitHub Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=HerobrineTV&show_icons=true&theme=radical)
-![Top Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=dein-github-benutzername&layout=compact&theme=radical)
+![Top Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=HerobrineTv&layout=compact&theme=radical)
 
 ### 🔥 GitHub Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HerorbrineTV)
