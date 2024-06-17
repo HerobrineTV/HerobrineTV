@@ -46,8 +46,11 @@ const mySkills = {
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=HerobrineTV&show_icons=true&theme=radical)
 ![Top Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=HerobrineTv&layout=compact&theme=radical)
 
-### 🔥 GitHub Streak Stats
+### 🔥 GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HerobrineTV&theme=radical)](https://git.io/streak-stats)
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=HerobrineTV)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📫 How to Reach Me
 - Discord: nintendo_switch
