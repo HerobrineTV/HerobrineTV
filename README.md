@@ -6,6 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF004C&center=true&vCenter=true&random=false&width=435&lines=20+Year+old+Programmer;10%2B+Years+of+Coding+Experience;Open+Source+Developer;Fullstack+Experience)](https://git.io/typing-svg)
 
 </div>
+
 ## Hello! 👋
 I'm Jan, a 20 years old fullstack developer from Germany.
 
