@@ -60,6 +60,9 @@ const mySkills = {
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HerobrineTV&theme=radical)](https://git.io/streak-stats)
 
 <div align="center">
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=HerobrineTV"/>
+</div>
+<div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/HerobrineTV/HerobrineTV/assets/github-contribution-grid-snake.svg" />
 </div>
 
