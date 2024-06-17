@@ -58,5 +58,6 @@ const mySkills = {
 Feel free to reach out!
 
 ---
+![Visitor Count](https://profile-counter.glitch.me/HerobrineTV/count.svg)
 
 🌟 From [HerobrineTVv](https://github.com/HerobrineTV)
