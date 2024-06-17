@@ -66,7 +66,7 @@ const mySkills = {
 </picture>
 
 ### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=HerobrineTV&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=HerobrineTV&theme=radical&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📫 How to Reach Me
 - Discord: nintendo_switch
