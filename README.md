@@ -60,8 +60,11 @@ const mySkills = {
 
 Feel free to reach out!
 
+
+
 ### Other Informations
 
+# GitHub Contribution Graph:
 [![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=HerobrineTV&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
