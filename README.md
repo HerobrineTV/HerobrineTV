@@ -32,9 +32,10 @@ const mySkills = {
 
 ### 🌱 What I am learning currently 🔵 or wanna learn in the Future 🔴
 
-- 🖥️ Reverse Engineering (Did already take a slim look but this is crazy big) 🔴
+- 🎮 Minecraft Spigot API 🔵
 - 🎮 Game Networking / Deeper Game Developement 🔵
 - 🔐 Software Security 🔵
+- 🖥️ Reverse Engineering (Did already take a slim look but this is crazy big) 🔴
 - 🤖 Machine Learning and AI Developement 🔴
 
 ### ❤️ My favours
