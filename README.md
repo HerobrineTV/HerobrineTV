@@ -84,6 +84,7 @@ Feel free to reach out!
 [![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=HerobrineTV&theme=react-dark&bg_color=20232a&hide_border=true")](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
+### Total Visits
 ![Visitor Count](https://profile-counter.glitch.me/HerobrineTV/count.svg)
 
 🌟 From [HerobrineTVv](https://github.com/HerobrineTV)
