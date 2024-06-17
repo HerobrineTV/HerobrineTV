@@ -30,7 +30,20 @@ const mySkills = {
 };
 ```
 
-### 🌟 Highlight Projects
+### 🌱 What I am learning currently 🔵 or wanna learn in the Future 🔴
+
+- 🖥️ Reverse Engineering (Did already take a slim look but this is crazy big) 🔴
+- 🎮 Game Networking / Deeper Game Developement 🔵
+- 🔐 Software Security 🔵
+- 🤖 Machine Learning and AI Developement 🔴
+
+### ❤️ My favours
+
+- 🖥️ Coding
+- 📺 Anime
+- 🎮 Gaming
+
+### 🌟 My Highlighted Projects
 <table>
   <thead align="center">
     <tr border: none;>
@@ -52,6 +65,22 @@ const mySkills = {
   </tbody>
 </table>
 
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=HerobrineTV&theme=radical&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 📫 How to Reach Me
+- Discord: nintendo_switch
+- **E-Mail**: [MAIL SOON]
+- **LinkedIn**: [Profile](https://www.linkedin.com/in/jan-waschinski-a52676277)
+- **Portfolio**: [Website](https://waschinski.net)
+
+Feel free to reach out!
+
+<br><br><br><br><br>
+---
+
+### Other Informations
+
 ### 📈 GitHub Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=HerobrineTV&show_icons=true&theme=radical)
 ![Top Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=HerobrineTv&layout=compact&theme=radical)
@@ -64,21 +93,6 @@ const mySkills = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HerobrineTV/HerobrineTV/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
 </picture>
-
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=HerobrineTV&theme=radical&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 📫 How to Reach Me
-- Discord: nintendo_switch
-- **E-Mail**: [MAIL SOON]
-- **LinkedIn**: [Profile](https://www.linkedin.com/in/jan-waschinski-a52676277)
-- **Portfolio**: [Website](https://waschinski.net)
-
-Feel free to reach out!
-
-
-
-### Other Informations
 
 #### GitHub Contribution Graph:
 [![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=HerobrineTV&theme=react-dark&bg_color=20232a&hide_border=true")](https://github.com/ashutosh00710/github-readme-activity-graph)
