@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/HerobrineTV/HerobrineTV/master/name.svg" alt="Marton Lederer" />
+  <img src="https://raw.githubusercontent.com/HerobrineTV/HerobrineTV/master/name.svg" alt="Jan Waschinski" />
 </h1>
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=20+Year+old+Programmer;over+10+Years+of+Coding+Experience;Fullstack+Experience)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF004C&center=true&vCenter=true&random=false&width=435&lines=20+Year+old+Programmer;10%2B+Years+of+Coding+Experience;Open+Source+Developer;Fullstack+Experience)](https://git.io/typing-svg)
 
 </div>
 ## Hello! 👋
