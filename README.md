@@ -47,7 +47,7 @@ const mySkills = {
 ![Top Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=HerobrineTv&layout=compact&theme=radical)
 
 ### 🔥 GitHub Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HerorbrineTV)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HerobrineTV&theme=radical)](https://git.io/streak-stats)
 
 ### 📫 How to Reach Me
 - Discord: nintendo_switch
