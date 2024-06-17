@@ -53,7 +53,7 @@ const mySkills = {
 [![trophy](https://github-profile-trophy.vercel.app/?username=HerobrineTV&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HerobrineTV&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HerobrineTV&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ### 📫 How to Reach Me
