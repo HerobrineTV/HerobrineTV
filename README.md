@@ -2,8 +2,6 @@
   <img src="https://raw.githubusercontent.com/HerobrineTV/HerobrineTV/master/name.svg" alt="Marton Lederer" />
 </h1>
 
-# Hey, I'm Jan 👋
-
 ## 🌐 Full Stack Developer | 🎮 Roblox Developer | 🛠️ NodeJS Developer | 📍 Germany
 
 Welcome to my GitHub! I'm a young Fullstack Developer from Germany.
