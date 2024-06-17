@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/HerobrineTV/HerobrineTV/master/name.svg" alt="Marton Lederer" />
 </h1>
 
-## Hey! 👋
+## Hello! 👋
 I'm Jan, a 20 years old fullstack developer from Germany.
 
 ## 🌐 Full Stack Developer | 🎮 Roblox Developer | 🛠️ NodeJS Developer | 📍 Germany
