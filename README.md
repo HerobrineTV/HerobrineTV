@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/HerobrineTV/HerobrineTV/master/name.svg" alt="Marton Lederer" />
 </h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=20 Years old Programmer;10+ Years of Coding Experience;Fullstack Experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=20+Year+old+Programmer;10++Years+of+Coding+Experience;Fullstack+Experience)](https://git.io/typing-svg)
 
 ## Hello! 👋
 I'm Jan, a 20 years old fullstack developer from Germany.
