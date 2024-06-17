@@ -52,10 +52,6 @@ const mySkills = {
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=HerobrineTV&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=HerobrineTV&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 ### 📫 How to Reach Me
 - Discord: nintendo_switch
 - **E-Mail**: [MAIL SOON]
@@ -63,6 +59,10 @@ const mySkills = {
 - **Portfolio**: [Website](https://waschinski.net)
 
 Feel free to reach out!
+
+### Other Informations
+
+[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=HerobrineTV&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 ![Visitor Count](https://profile-counter.glitch.me/HerobrineTV/count.svg)
