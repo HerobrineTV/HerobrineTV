@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/HerobrineTV/HerobrineTV/master/name.svg" alt="Jan Waschinski" />
+  <img src="https://raw.githubusercontent.com/HerobrineTV/HerobrineTV/master/assets/name.svg" alt="Jan Waschinski" />
 </h1>
 <div align="center">
   
@@ -58,6 +58,10 @@ const mySkills = {
 
 ### 🔥 GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HerobrineTV&theme=radical)](https://git.io/streak-stats)
+
+<div align="center">
+	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
+</div>
 
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=HerobrineTV&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
