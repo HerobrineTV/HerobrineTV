@@ -44,12 +44,16 @@ const mySkills = {
 
 ### 📈 GitHub Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=HerobrineTV&show_icons=true&theme=radical)
+![Top Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=dein-github-benutzername&layout=compact&theme=radical)
 
 ### 🔥 GitHub Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HerorbrineTV)
 
 ### 📫 How to Reach Me
 - Discord: nintendo_switch
+- **E-Mail**: [MAIL SOON]
+- **LinkedIn**: [Profile](https://www.linkedin.com/in/jan-waschinski-a52676277)
+- **Portfolio**: [Website](https://waschinski.net)
 
 Feel free to reach out!
 
