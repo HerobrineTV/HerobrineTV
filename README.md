@@ -79,7 +79,7 @@ const mySkills = {
 
 ### 📫 How to Reach Me
 - Discord: nintendo_switch
-- **E-Mail**: [MAIL SOON]
+- **E-Mail**: [jan@waschinski.net](mailto:jan@waschinski.net)
 - **LinkedIn**: [Profile](https://www.linkedin.com/in/jan-waschinski-a52676277)
 - **Portfolio**: [Website](https://waschinski.net)
 
