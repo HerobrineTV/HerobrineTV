@@ -23,11 +23,11 @@ Welcome to my GitHub! I'm a young Fullstack Developer from Germany.
 ### 🛠️ My Toolbox
 ```javascript
 const mySkills = {
-  languages: ['TypeScript', 'JavaScript', 'Luau', 'HTML', 'CSS', 'NodeJS', 'GML', 'GoDot', 'C#', 'Python', 'Java'],
-  frameworks: ['Electron', 'React'],
-  databases: ['MySQL', 'MariaDB', 'PostgreSQL'],
-  tools: ['Git', 'GitHub', 'VSCode', 'Roblox Studio', 'GoDot', 'Docker'],
-  currentProjects: ['SpE Challenges (Minecraft Plugin)']
+  languages:        ['TypeScript', 'JavaScript', 'Luau', 'HTML', 'CSS', 'NodeJS', 'GML', 'GoDot', 'C#', 'Python', 'Java'],
+  frameworks:       ['Electron', 'React'],
+  databases:        ['MySQL', 'MariaDB', 'PostgreSQL'],
+  tools:            ['Git', 'GitHub', 'VSCode', 'Roblox Studio', 'GoDot', 'Docker'],
+  currentProjects:  ['SpE Challenges (Minecraft Plugin)']
 };
 ```
 
