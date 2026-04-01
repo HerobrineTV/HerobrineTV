@@ -3,19 +3,19 @@
 </h1>
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF004C&center=true&vCenter=true&random=false&width=435&lines=20+Year+old+Programmer;10%2B+Years+of+Coding+Experience;Open+Source+Developer;Fullstack+Experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF004C&center=true&vCenter=true&random=false&width=435&lines=22+Year+old+Programmer;12%2B+Years+of+Coding+Experience;Open+Source+Developer;Fullstack+Experience)](https://git.io/typing-svg)
 
 </div>
 
 ## Hello! 👋
-I'm Jan, a 20 years old fullstack developer from Germany.
+I'm Jan, a 22 years old fullstack developer from Germany.
 
 ## 🌐 Full Stack Developer | 🎮 Roblox Developer | 🛠️ NodeJS Developer | 📍 Germany
 
 Welcome to my GitHub! I'm a young Fullstack Developer from Germany.
 
 ### 🚀 About Me
-- 🌱 I am 20 years old at the Moment and try to find my way into game developement.
+- 🌱 I am 22 years old at the Moment and try to find my way into game developement.
 - 👾 Creator of the Super Mario Maker 1 Level Downloader
 - 💻 Proficient in Java, JavaScript, CSS, HTML, Electron, NodeJS, and more.
 - 📚 Constantly enhancing my skills in the ever-changing world of technology.
