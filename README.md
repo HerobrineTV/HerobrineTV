@@ -54,6 +54,7 @@ const mySkills = {
       <td><b>📚 Forks</b></td>
       <td><b>🛎 Issues</b></td>
       <td><b>📬 Pull requests</b></td>
+      <td><b> Installations</td>
     </tr>
   </thead>
   <tbody>
@@ -63,6 +64,7 @@ const mySkills = {
       <td><img alt="Forks" src="https://img.shields.io/github/forks/HerobrineTV/SMM1-Level-Downloader?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/HerobrineTV/SMM1-Level-Downloader?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/HerobrineTV/SMM1-Level-Downloader?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Installations" src="https://img.shields.io/badge/dynamic/json?label=Total%20Installations&query=%24.DownloadsSMM1Downloader&url=https%3A%2F%2Fapi.bobac-analytics.com%2Fsmm1%2Fget%2FDownloadsSMM1Downloader"></td>
     </tr>
     <tr>
       <td><a href="https://github.com/HerobrineTV/Project-Chess"><b>Project Chess</b></a></td>
